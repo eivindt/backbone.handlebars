@@ -1,0 +1,28 @@
+{
+	"name":		"backbone.handlebars",
+	"version":	"0.0.1",
+	"homepage":	"http://github.com/eivindt/backbone.handlebars",
+	"main":		"backbone.handlebars.js",
+	"repository":	{
+			"type": "git",
+			"url": "https://github.com/eivindt/backbone.handlebars"
+	},
+	"authors": [
+		"Eivind Tagseth <eivindt@gmail.com>"
+	],
+	"description":	"A backbone plugin for letting handlebar templates access backbone models intuitively",
+	"keywords": [
+		"backbone",
+		"handlebars",
+		"templates",
+		"models",
+		"model"
+	],
+	"ignore": [
+		".gitignore"
+	],
+	"dependencies": {
+		"backbone": ">= 1.1.0"
+	},
+	"license": "MIT"
+}
